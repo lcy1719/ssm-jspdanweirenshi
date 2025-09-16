@@ -1,4 +1,4 @@
-## 源码获取（地球：a1719101159）；（ssm和springboot+vue是一杯蜜雪冰城柠檬水，小程序7.9-19.9是2杯柠檬水，springcloud代码是3杯柠檬水）
+## 源码获取（地球：a1719101159）；（ssm+vue/jsp和springboot+vue/html是一杯蜜雪冰城柠檬水，ssm/springboot+uniapp小程序是2杯柠檬水，springcloud+vue代码是3杯柠檬水）
 ### 万字文档(LW)+单位人事管理系统+SSM+JSP+数据库脚本(sql文件)+软件环境安装包
 ## 项目采用技术：
 开发环境：IDEA、JDK1.8、Maven3.6以上、MySQL5.7/8.0、tomcat7.5-9
